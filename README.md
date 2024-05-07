@@ -3,3 +3,5 @@
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/83e9764e08e6cef8cdb3/maintainability)](https://codeclimate.com/github/RalfDalfs/python-project-49/maintainability)
 
+[![asciicast](https://asciinema.org/a/9k2qXGrFVxgS1w5HzzcHkcfSd.svg)](https://asciinema.org/a/9k2qXGrFVxgS1w5HzzcHkcfSd)
+
