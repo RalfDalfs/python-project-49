@@ -13,5 +13,6 @@ def get_round_data():
         correct_answer = 'no'
     return random_number, correct_answer
 
+
 def is_even(random_number):
     return random_number % 2 == 0
