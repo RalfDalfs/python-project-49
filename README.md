@@ -9,3 +9,7 @@
 
 [![asciicast](https://asciinema.org/a/GetBMI3pyb9p4FBDoSkQja2fi.svg)](https://asciinema.org/a/GetBMI3pyb9p4FBDoSkQja2fi)
 
+[![asciicast](https://asciinema.org/a/kaDcRouOP2uR3HNAKzdMHJir1.svg)](https://asciinema.org/a/kaDcRouOP2uR3HNAKzdMHJir1)
+
+[![asciicast](https://asciinema.org/a/QAngSaBrBJmDRqIQoA50eh0Cw.svg)](https://asciinema.org/a/QAngSaBrBJmDRqIQoA50eh0Cw)
+
