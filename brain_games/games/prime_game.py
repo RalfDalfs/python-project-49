@@ -7,7 +7,7 @@ DESCRIPTION = 'Answer "yes" if given number is prime. Otherwise answer "no".'
 
 def get_round_data():
     question = randint(LOWER_LIMIT, UPPER_LIMIT)
-    if is_prime(question) == True:
+    if is_prime(question):
         correct_answer = 'yes'
     else:
         correct_answer = 'no'

@@ -7,17 +7,18 @@ DESCRIPTION = 'What is the result of the expression?'
 
 
 def get_round_data():
-    operator=choice(['*', '-', '+'])
+    operator = choice(['*', '-', '+'])
     random_number_1 = randint(LOWER_LIMIT, UPPER_LIMIT)
     random_number_2 = randint(LOWER_LIMIT, UPPER_LIMIT)
     random_number = f'{random_number_1} {operator} {random_number_2}'
-    correct_answer = str(calculate_num(random_number_1,random_number_2,operator))
+    correct_answer = str(calculate_num(random_number_1, random_number_2, operator))
     return random_number, correct_answer
 
-def calculate_num(num_1,num_2,operator):
-    if operator=='*':
-        return num_1*num_2
-    elif operator=='-':
-        return num_1-num_2
+
+def calculate_num(num_1, num_2, operator):
+    if operator == '*':
+        return num_1 * num_2
+    elif operator == '-':
+        return num_1 - num_2
     else:
-        return num_1+num_2
+        return num_1 + num_2
