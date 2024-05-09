@@ -2,7 +2,7 @@ from random import randint
 
 LOWER_LIMIT = 1
 UPPER_LIMIT = 100
-DESCRIPTION = 'Find the greatest common divisor of given numbers.'
+DESCRIPTION = 'What number is missing in the progression?'
 
 
 def get_round_data():
