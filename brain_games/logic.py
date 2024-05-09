@@ -23,4 +23,4 @@ def launch(game):
             print(f'Let\'s try again, {name}!')
             return
         index = index + 1
-    print(f'Congratulations {name}')
+    print(f'Congratulations, {name}')
