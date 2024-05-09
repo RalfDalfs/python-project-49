@@ -9,7 +9,7 @@ def get_round_data():
     num_1 = randint(LOWER_LIMIT, UPPER_LIMIT)
     num_2 = randint(LOWER_LIMIT, UPPER_LIMIT)
     correct_answer = str(gcd_fun(num_1, num_2))
-    random_number = f'{num_1, num_2}'
+    random_number = f'{num_1} {num_2}'
     return random_number, correct_answer
 
 
